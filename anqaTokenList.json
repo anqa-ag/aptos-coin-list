@@ -271,5 +271,12 @@
     "name": "Citadeli",
     "symbol": "CTD",
     "logoUrl": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/CTD_ICON.svg"
+  },
+  {
+    "id": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
+    "decimals": 8,
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "logoUrl": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/pepe.svg"
   }
 ]
