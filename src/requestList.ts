@@ -47,7 +47,7 @@ export const REQUESTS: RawCoinInfo[] = [
     name: "UPTOS",
     symbol: "UPTOS",
     official_symbol: "UPTOS",
-    coingecko_id: "UPTOS",
+    coingecko_id: "uptos",
     decimals: 8,
     logo_url: "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/uptos.svg",
     project_url: "https://uptos.xyz/",
@@ -1954,6 +1954,27 @@ export const REQUESTS: RawCoinInfo[] = [
     unique_index: 289,
     source: "native",
     permissioned_listing: false,
+   },
+   {
+    name: "Citadeli",
+    symbol: "CTD",
+    official_symbol: "CTD",
+    coingecko_id: "",
+    decimals: 8,
+    logo_url: "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/CTD_ICON.svg",
+    project_url: "https://citadeli.crypto",
+    token_type: {
+      type: "0x7e19e5790911597559ec6b41c5465ab062be22d6ba5729845bf257a2361d7608::CITADELI::CITADELI",
+      account_address: "0x7e19e5790911597559ec6b41c5465ab062be22d6ba5729845bf257a2361d7608",
+      module_name: "Citadeli",
+      struct_name: "CTD"
+    },
+    extensions: {
+      data: [["bridge", "native"]]
+    },
+    unique_index: 888,
+    source: "native",
+    permissioned_listing: false,
   },
    {
     "name": "Nebula",
@@ -1996,6 +2017,27 @@ export const REQUESTS: RawCoinInfo[] = [
       "data": [[ "bridge", "native" ]]
     },
     "unique_index": 80085,
+    "source": "native",
+    "permissioned_listing": false,
+  },
+   {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "official_symbol": "PEPE",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/pepe.svg",
+    "project_url": "https://pepe.as",
+    "token_type": {
+      "type": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
+      "account_address": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f",
+      "module_name": "PEPE",
+      "struct_name": "PEPE"
+    },
+     "extensions": {
+     "data": []
+    },
+    "unique_index": 22051107,
     "source": "native",
     "permissioned_listing": false,
   },
