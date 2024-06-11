@@ -278,5 +278,19 @@
     "name": "Pepe",
     "symbol": "PEPE",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/pepe.svg"
+  },
+  {
+    "id": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
+    "decimals": 8,
+    "name": "DumDum",
+    "symbol": "DUMDUM",
+    "logoUrl": ""
+  },
+  {
+    "id": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::chad_coin::ChadCoin",
+    "decimals": 8,
+    "name": "CHAD",
+    "symbol": "CHAD",
+    "logoUrl": ""
   }
 ]
