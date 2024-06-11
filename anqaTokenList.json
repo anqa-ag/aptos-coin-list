@@ -292,5 +292,12 @@
     "name": "CHAD",
     "symbol": "CHAD",
     "logoUrl": ""
+  },
+   {
+    "id": "0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN",
+    "decimals": 8,
+    "name": "DDOS Token",
+    "symbol": "DDOS",
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/ddos.svg"
   }
 ]
