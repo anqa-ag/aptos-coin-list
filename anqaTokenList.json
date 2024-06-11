@@ -257,5 +257,12 @@
     "name": "APTOS FOMO",
     "symbol": "FOMO",
     "logoUrl": "https://raw.githubusercontent.com/aptosfomo/aptos-coin-list/main/icons/FOMO.png"
+  },
+  {
+    "id": "0x7de3fea83cd5ca0e1def27c3f3803af619882db51f34abf30dd04ad12ee6af31::tapos::Heart",
+    "decimals": 8,
+    "name": "Heart",
+    "symbol": "HEART",
+    "logoUrl": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/HEART.png"
   }
 ]
