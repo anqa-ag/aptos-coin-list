@@ -306,5 +306,19 @@
     "name": "Zaaptos Coin",
     "symbol": "ZAAP",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/ZAAP.PNG"
+  },
+  {
+    "id": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+    "decimals": 8,
+    "name": "DONK",
+    "symbol": "DONK",
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/donk.jpg"
+  },
+  {
+    "id": "0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW",
+    "decimals": 2,
+    "name": "GEM.KRW",
+    "symbol": "GEM.KRW",
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/GEMKWR.svg"
   }
 ]
