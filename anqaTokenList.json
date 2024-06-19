@@ -256,7 +256,7 @@
     "decimals": 6,
     "name": "APTOS FOMO",
     "symbol": "FOMO",
-    "logoUrl": "https://raw.githubusercontent.com/aptoanqsfomo/aptos-coin-list/main/icons/FOMO.png"
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/FOMO.png"
   },
   {
     "id": "0x7de3fea83cd5ca0e1def27c3f3803af619882db51f34abf30dd04ad12ee6af31::tapos::Heart",
@@ -293,11 +293,18 @@
     "symbol": "CHAD",
     "logoUrl": ""
   },
-   {
+  {
     "id": "0x66398cf97d29fd3825f65b37cb2773268e5438d37e20777e6a98261da0cf1f1e::ddos_coin::DDOS_COIN",
     "decimals": 8,
     "name": "DDOS Token",
     "symbol": "DDOS",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/ddos.svg"
+  },
+  {
+    "id": "0xdcfa079344261bfde45e7f6281df091743b8d3098bf9e26e1c0212fc5b070621::zaaptos_token::ZaaptosCoin",
+    "decimals": 8,
+    "name": "Zaaptos Coin",
+    "symbol": "ZAAP",
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/ZAAP.PNG"
   }
 ]
