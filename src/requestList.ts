@@ -1157,6 +1157,27 @@ export const REQUESTS: RawCoinInfo[] = [
     source: "native",
   },
   {
+    name: "GEM.KRW",
+    symbol: "GEMKRW",
+    official_symbol: "GEMKRW",
+    coingecko_id: "",
+    decimals: 2,
+    logo_url: "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/GEMKRW.svg",
+    project_url: "",
+    token_type: {
+      type: "0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW",
+      account_address: "0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d",
+      module_name: "GEMKRW",
+      struct_name: "GEMKRW"
+    },
+    extensions: {
+      data: [["bridge", "native"]]
+    },
+    unique_index: 40130,
+    source: "native",
+    permissioned_listing: false,
+  },
+  {
     name: "Abel Coin",
     symbol: "ABEL",
     official_symbol: "ABEL",
@@ -1610,6 +1631,27 @@ export const REQUESTS: RawCoinInfo[] = [
       data: []
     },
     unique_index: 227,
+    source: "native",
+    permissioned_listing: true,
+  },
+  {
+    name: "DONK",
+    symbol: "DONK",
+    official_symbol: "DONK",
+    coingecko_id: "",
+    decimals: 8,
+    logo_url: "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/DONK.svg",
+    project_url: "https://donkmove.com/",
+    token_type: {
+      type: "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+      account_address: "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b", 
+      module_name: "coin",
+      struct_name: "Donk"
+    },
+    extensions: {
+      data: []
+    },
+    unique_index: 1989,
     source: "native",
     permissioned_listing: true,
   },
