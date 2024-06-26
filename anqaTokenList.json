@@ -238,13 +238,6 @@
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/uptos.svg"
   },
   {
-    "id": "0x13341e81b2c5960623f31cfee0b1ef674cbf23ca302852159b542adc6afe0f37::TEH_DORK_KNITE::TEH_DORK_KNITE",
-    "decimals": 8,
-    "name": "Teh Dork Knite",
-    "symbol": "BAPTMAN",
-    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/BAPTMAN_LOGO.jpg"
-  },
-  {
     "id": "0xd2c9cfe8dd64ebdf9b39e1525997cef33bd178161c59410097d3f3e0704a5df3::ROO::ROO",
     "decimals": 8,
     "name": "ROO",
@@ -313,12 +306,5 @@
     "name": "DONK",
     "symbol": "DONK",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/donk.jpg"
-  },
-  {
-    "id": "0x91b54cb4441c88fa21b7ca5b8b860e8b6fe726c23866bed91999823e65c1026d::GEMKRW::GEMKRW",
-    "decimals": 2,
-    "name": "GEM.KRW",
-    "symbol": "GEM.KRW",
-    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/GEMKRW.svg"
   }
 ]
