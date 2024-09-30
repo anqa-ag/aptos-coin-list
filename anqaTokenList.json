@@ -306,5 +306,12 @@
     "name": "DONK",
     "symbol": "DONK",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/donk.jpg"
+  },
+  {
+    "id": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
+    "decimals": 6,
+    "name": "CAPTOS",
+    "symbol": "CAPTOS",
+    "logoUrl": "https://i.ibb.co/r5ccNYB/2024-09-30-21-56-53.jpg"
   }
 ]
