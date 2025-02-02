@@ -194,7 +194,7 @@
     "coinType": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
     "decimals": 6,
     "name": "USD Coin (Wormhole)",
-    "symbol": "USDC",
+    "symbol": "whUSDC",
     "displaySymbol": "wUSDC",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDC.svg"
   },
@@ -204,7 +204,7 @@
     "coinType": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
     "decimals": 6,
     "name": "Tether USD (Wormhole)",
-    "symbol": "USDT",
+    "symbol": "whUSDT",
     "displaySymbol": "wUSDT",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDT.svg"
   },
@@ -422,5 +422,13 @@
     "name": "Tether USD",
     "symbol": "USDt",
     "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDT.svg"
+  },
+  {
+    "id": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+    "faAddress": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+    "decimals": 6,
+    "name": "USDC",
+    "symbol": "USDC",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDC.svg"
   }
 ]
