@@ -430,5 +430,13 @@
     "name": "USDC",
     "symbol": "USDC",
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDC.svg"
+  },
+  {
+    "id": "0xb30a694a344edee467d9f82330bbe7c3b89f440a1ecd2da1f3bca266560fce69",
+    "faAddress": "0xb30a694a344edee467d9f82330bbe7c3b89f440a1ecd2da1f3bca266560fce69",
+    "decimals": 6,
+    "name": "Staked USDe",
+    "symbol": "sUSDe",
+    "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/sUSDe.png"
   }
 ]
