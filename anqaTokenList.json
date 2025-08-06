@@ -438,5 +438,13 @@
     "name": "Staked USDe",
     "symbol": "sUSDe",
     "logoUrl": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/sUSDe.png"
+  },
+  {
+    "id": "0x534e4c3dc0f038dab1a8259e89301c4da58779a5d482fb354a41c08147e6b9ec",
+    "faAddress": "0x534e4c3dc0f038dab1a8259e89301c4da58779a5d482fb354a41c08147e6b9ec",
+    "decimals": 8,
+    "name": "AURO USDA",
+    "symbol": "USDA",
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDA.jpeg"
   }
 ]
