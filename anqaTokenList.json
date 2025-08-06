@@ -445,6 +445,6 @@
     "decimals": 8,
     "name": "AURO USDA",
     "symbol": "USDA",
-    "logoUrl": "https://token.auro.finance/usda"
+    "logoUrl": "https://raw.githubusercontent.com/anqa-ag/aptos-coin-list/main/icons/USDA.jpeg"
   }
 ]
